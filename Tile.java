@@ -1,18 +1,3 @@
-/*  Name: Ryan Krumenacker
-*  PennKey: ryankrum 
-*  Recitation: 204
-*
-*  Description: the Tile class defines the Tile object and contains one complex
-*               function that is used to draw an indivudal Tile to the PennDraw
-*               screen. A Tile contains a total of 9 parameters. Three are integers
-*               that are never changed and simply store the row, column, and grid
-*               index. One is a String that stores the current value of the Tile.
-*               The remaining 5 are booleans which help track the current state of
-*               of the Tile as the user interacts with the game. These booleans
-*               are used to determined the colors with which the Tile is draw in 
-*               the Tile.draw() function. 
-*
-*/
 public class Tile {
 
     public static final double HALF_TILE_LENGTH = 0.5;
