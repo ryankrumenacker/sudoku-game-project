@@ -1,16 +1,3 @@
-/*  Name: Ryan Krumenacker
-*  PennKey: ryankrum 
-*  Recitation: 204
-*
-*  Description: the Sudoku class is the "game" class. Aside from setting the scale,
-*               reading in the file name, and drawing the congratulations message
-*               at the end if the user wins, it essentially just waits for user 
-*               input before calling the more complex functions associated with
-*               the Board object. 
-*
-* Execution: java Sudoku sudokuExample.txt
-*
-*/
 public class Sudoku {
 
     public static void main(String[] args) {
