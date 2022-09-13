@@ -1,14 +1,3 @@
-/*  Name: Ryan Krumenacker
-*  PennKey: ryankrum 
-*  Recitation: 204
-*
-*  Description: the Board class defines the Board object and contains all of the
-*               complex functions that are used to implement the game in the 
-*               Sudoku class. the Board object contains a 9x9 2D array of Tile
-*               objects, along with two booleans values that help to track the 
-*               current state of the Board. 
-*
-*/
 public class Board {
 
     public static final char[] VALID_CHARACTERS = {'1', '2', '3', '4', '5', '6', 
