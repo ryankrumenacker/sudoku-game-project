@@ -1,5 +1,9 @@
 # Sudoku Game Project in Java
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113403062/189804694-b18c1327-fb4d-4f52-bfaa-02901b5aff05.gif" alt="animated" />
+</p>
+
 This project was made in May 2022. There are a total of 3 Java files that are necessary to play the game. However, since this was a school project, it uses a closed source software package known as **PennDraw** for all visualizations.
 
 ### Sudoku.java
