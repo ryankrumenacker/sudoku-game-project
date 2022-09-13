@@ -1,6 +1,6 @@
 # Sudoku Game Project in Java
 
-This project was made in May 2022. There are a total of 3 Java files that are necessary to play the game.
+This project was made in May 2022. There are a total of 3 Java files that are necessary to play the game. However, since this was a school project, it uses a closed source software package known as **PennDraw** for all visualizations.
 
 ### Sudoku.java
 
